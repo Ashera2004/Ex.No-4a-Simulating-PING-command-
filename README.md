@@ -28,3 +28,13 @@ To write the python program for simulating ping command.
   Step 7: Stop the program.
 
 # PROGRAM:
+
+![4a_code](https://github.com/user-attachments/assets/52e12bad-4822-40f4-a375-239b478223b7)
+
+# OUTPUT
+
+![4a_output](https://github.com/user-attachments/assets/72384095-1da4-4e2a-9df4-0e3d1c0ac44a)
+
+# RESULT: 
+ 
+Thus, the python program for simulating ping command was successfully executed.
